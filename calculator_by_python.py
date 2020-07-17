@@ -1,4 +1,4 @@
-print("\nWelcome to Deshi Calculator, Developed By Deshi Swarup :)\n")
+print("\nWelcome to this Calculator, Created Using Python, Developed By Swarup :)\n")
 print("Please Choose Your Calculation type, and enter type (ex + - *")
 print("\n    Enter + for Addition \n    Enter - for subtraction \n    Enter / for division \n    Enter * for multiplication \n")
 choice = input("Please Enter Your Choice -")
@@ -22,4 +22,4 @@ elif choice == "*":
     print(num4)
 else:
     print("\n Out of range/ Error \n")
-    print("Thank you for using our deshi calculator ;) visit again.")
+    print("Thank you for using our calculator ;) visit again.")
